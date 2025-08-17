@@ -35,27 +35,17 @@ You will need a modern web browser and a text editor (like VS Code).
 
 1.  *Clone the repository:*
     
-    git clone 
+    git clone https://github.com/Atul3412/Currency-Exchange.git
     
 2.  *Navigate to the project directory:*
     
-    cd your-Currency-Exchange
+    cd Currency-Exchange
     
 3.  *API Key (if required):*
-    This project requires an API key from [Name of API Provider].
-    -   Sign up for a free API key at [Link to the API provider's website].
+    This project requires an API key from [@fawazahmed0].
+    -   API key : "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies"
 4.  *Open the application:*
     Simply open the index.html file in your web browser.
-
-## Project Structure
-
-
-.
-├── index.html       # The main HTML file
-├── style.css        # The CSS file for styling
-├── script.js        # The JavaScript file for functionality
-└── README.md        # This README file
-
 
 ## Contributing
 
